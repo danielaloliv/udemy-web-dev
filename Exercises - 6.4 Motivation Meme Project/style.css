@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body {
+    font-family: 'Libre Baskerville', serif;
+    background-color: black;
+}
+
+.motivational-poster {
+    width:500px;
+    color: white;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;;
+    text-align: center;
+}
+
+.motivational-img {
+    width: 100%;
+    border: 5px solid;
+    border-color: white;
+}
